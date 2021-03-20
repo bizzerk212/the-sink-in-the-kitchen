@@ -38,6 +38,3 @@
 #retro exchange items
 <retroexchange:transmutation_shard>.addTooltip(format.green("Rare drop from mobs."));
 <retroexchange:transmutation_stone>.addTooltip(format.green("Transmute blocks in world and items in crafting table."));
-
-#bc pump
-<buildcraftfactory:pump>.addTooltip(format.red("Disabled for performance reasons.  Use Industrial Foregoing Fluid Pump for all your pumping needs!"));
