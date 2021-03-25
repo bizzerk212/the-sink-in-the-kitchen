@@ -6,7 +6,7 @@ mods.jei.JEI.removeAndHide(<techreborn:chunk_loader>);
 mods.jei.JEI.removeAndHide(<ic2:te:82>);
 
 #defense station
-mods.jei.JEI.removeAndHide(<modularforcefieldsystem:area_defense>);
+#mods.jei.JEI.removeAndHide(<modularforcefieldsystem:area_defense>);
 
 #charged certus quartz
 mods.jei.JEI.removeAndHide(<appliedenergistics2:charged_quartz_ore>);
@@ -46,4 +46,4 @@ mods.jei.JEI.removeAndHide(<peripheralsplusone:analyzer_tree>);
 mods.jei.JEI.removeAndHide(<peripheralsplusone:analyzer_butterfly>);
 
 #AE portable cells
-mods.jei.JEI.removeAndHide(<appliedenergistics2:portable_cell>);
+#mods.jei.JEI.removeAndHide(<appliedenergistics2:portable_cell>);
